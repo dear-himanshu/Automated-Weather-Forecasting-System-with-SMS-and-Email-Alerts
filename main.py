@@ -1,3 +1,5 @@
+#Code written by Himanshu Sonkar, Sophomore at National Institute of Technology Calicut
+
 import requests
 from twilio.rest import Client
 
